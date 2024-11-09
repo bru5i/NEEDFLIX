@@ -1,0 +1,39 @@
+body { 
+    color: green;
+    background: #808080;
+    margin: 0px;
+    font-family: "Anton SC", sans-serif;
+}
+
+header {
+    border: solid 2px rgb(43, 94, 42);
+    padding: 20px;
+    font-size: 30;
+    color: darkgreen;
+}
+
+.chamada57 {
+    background: rgb(202, 202, 202);
+    padding-bottom: 75px;
+    padding-top: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+img {
+    height: 240px;
+}
+.categoria-gameplays {
+    display: flex;
+    overflow-x: auto;
+    gap: 22px;
+}
+
+.golden-age {
+    padding-left: 25px;
+    padding-right: 25px;
+}
